@@ -46,7 +46,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: rgb(171, 171, 171);
+    color: rgb(255, 255, 255);
     text-decoration: none;
     font-size: 1rem;
     transition: color 0.3s ease-in-out;
@@ -56,7 +56,7 @@ nav ul li a {
 
 nav ul li a:hover {
     color: #ffffff;
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(255, 254, 254, 0.1);
 }
 
 #icon {
